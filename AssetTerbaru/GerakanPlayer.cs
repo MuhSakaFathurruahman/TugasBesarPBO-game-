@@ -4,25 +4,25 @@ using UnityEngine;
 
 public class GerakanPlayer : MonoBehaviour
 {
-    public float kecepatan;
-    Rigidbody rigidbody;
-    Animator anim;
+    public float kecepatan; // Untuk Putaran
+    Rigidbody rigidbody; // Untuk gerak Player
+    Animator anim; // Untuk gerakan Animasi
 
-    public Transform playerPutaran;
+    public Transform playerPutaran; // Untuk putaran Objek
 
-    private void Awake()
+    private void Awake() // Awake untuk mendahului start
     {
         rigidbody = GetComponent<Rigidbody>();
         anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void FixedUpdate() // Instansiasi method bergerak
     {
-        Bergerak();
+        Bergerak(); // Ini instansiasinya
     }
 
-    void Bergerak()
+    void Bergerak() // Method untuk bergerak
     {
         float gerak = Input.GetAxis("Horizontal");
         rigidbody.velocity = Vector3.right * gerak * kecepatan;

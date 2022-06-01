@@ -2,13 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+public class Code: MonoBehaviour
+{
+
+}
+
 public class MunculinVirus : MonoBehaviour
 {
     public GameObject virus;
     public float waktuMin, waktuMax;
     public float posisiMin, posisiMax;
     // Start is called before the first frame update
-    void Start()
+    public override void Start()
     {
         StartCoroutine(MunculVirus());
     }
