@@ -73,7 +73,7 @@ Ketika anda pulang kerumah anda bisa saja menularkan ke orang rumah atau keluarg
   <dt>Target Audience</dt>
   <dd>- </dd>
   <dt>Story</dt>
-  <dd>- </dd>
+  <dd> Setelah UAS Selesai, Anto Damiri pergi mendaki ke Sebuah Gunung namun sangat disayangkan Anto pergi disaat Pandemi Covid-19 masih santer-santernya, dan Anto pun terjebak di sebuah jalan yang mana terdapat banyak Virus yang menghadang nya, Sebenarnya Anto ingin sekali membatalkan niatnya tetapi Anto pun melanjutkan niatnya karena sudah dekat dengan Puncak. Bisakah Anto Menghindari Virus agar bisa ke Puncak? </dd>
   <dt>Gameplay</dt>
   <dd>- </dd>
 </dl>
