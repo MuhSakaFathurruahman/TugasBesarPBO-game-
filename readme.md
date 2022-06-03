@@ -13,13 +13,29 @@
 </dl>
 
 <h1>STORY</h1>
+
+https://user-images.githubusercontent.com/49836307/171816489-05fa5a4c-b339-4a6f-b075-59eebac11a7b.mp4
+
+
 <h3>Plot</h3>
 <p> Setelah UAS Selesai, Anto Damiri pergi mendaki ke Sebuah Gunung namun sangat disayangkan Anto pergi disaat Pandemi Covid-19 masih santer-santernya, dan Anto pun terjebak di sebuah jalan yang mana terdapat banyak Virus yang menghadang nya, Sebenarnya Anto ingin sekali membatalkan niatnya tetapi Anto pun melanjutkan niatnya karena sudah dekat dengan Puncak. Bisakah Anto Menghindari Virus agar bisa ke Puncak?. </p>
 <h3>Character</h3>
 <dl>
   <dt> Virus</dt>
   <dd> - Menyerang Anto</dd>
+
+https://user-images.githubusercontent.com/49836307/171816481-2ba7aabe-bd3e-4a3b-bb59-36a71f4b0ad8.mp4
+
+
+
+Uploading y2mate.com - Pre Production Game Hindari Covid19_1080p.mp4…
+
+
   <dt> Anto</dt>
+
+Uploading y2mate.com - Pre Production Game Hindari Covid19_1080p.mp4…
+
+
   <dd> - Menghindari Virus</dd>
 </dl>
 <h3>Setting</h3>
@@ -67,20 +83,22 @@ Ketika anda pulang kerumah anda bisa saja menularkan ke orang rumah atau keluarg
 <h3>Game Design Document(GDD)</h3>
 <dl>
   <dt>High Concept</dt>
-  <dd>- Game ini merupakan Game Santai yang mampu melatih Reflek dan Kecepatan Berfikir.</dd>
+  <dd>- Game Hindari Covid ini merupakan Game Santai yang mampu melatih Reflek dan Kecepatan Berfikir.</dd>
   <dt>Unique Value</dt>
-  <dd>- </dd>
+  <dd>- Game Hindari Covid Ini juga Membutuhkan Keterampilan Reflek dan Kecepatan berfikir untuk menghindari Virus Sebisa Mungkin.</dd>
+  <dt>Genre Game</dt>
+  <dd>- Game "Hindari Covid" ini adalah Game dengan Genre Santai.</dd>
   <dt>Target Audience</dt>
-  <dd>- </dd>
+  <dd>- Game "Hindari Covid" ditujukan untuk semua kalangan, karena bersifat edukasi.</dd>
   <dt>Story</dt>
   <dd> Setelah UAS Selesai, Anto Damiri pergi mendaki ke Sebuah Gunung namun sangat disayangkan Anto pergi disaat Pandemi Covid-19 masih santer-santernya, dan Anto pun terjebak di sebuah jalan yang mana terdapat banyak Virus yang menghadang nya, Sebenarnya Anto ingin sekali membatalkan niatnya tetapi Anto pun melanjutkan niatnya karena sudah dekat dengan Puncak. Bisakah Anto Menghindari Virus agar bisa ke Puncak? </dd>
   <dt>Gameplay</dt>
-  <dd>- </dd>
+  
 </dl>
 <h3>First Prototype</h3>
 
 <p>Shows Gameplay</p>
 
 
-https://user-images.githubusercontent.com/49836307/171779693-bcf4554b-3b9a-4622-a9c9-955480f5ea6c.mp4
+
 
