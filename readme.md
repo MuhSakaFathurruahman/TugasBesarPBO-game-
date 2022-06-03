@@ -34,7 +34,7 @@
   
 Ketika anda pulang kerumah anda bisa saja menularkan ke orang rumah atau keluarga anda.</p>
 
-<h3>MECHANIC</h3>
+<h1>MECHANIC</h1>
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ Ketika anda pulang kerumah anda bisa saja menularkan ke orang rumah atau keluarg
   </tr>
 </table>
 
-<h3>AESTHETIC</h3>
+<h1>AESTHETIC</h1>
 
 <dl>
   <dt>Karakter</dt>
@@ -59,3 +59,26 @@ Ketika anda pulang kerumah anda bisa saja menularkan ke orang rumah atau keluarg
   <dt>Suasana</dt>
   <dd>- Mencekam</dd>
 </dl>
+
+<h1>TECHNOLOGY</h1>
+<p>Desktop</p>
+
+<h1>Pre-Production</h1>
+<h3>Game Design Document(GDD)</h3>
+<dl>
+  <dt>High Concept</dt>
+  <dd>- Game ini merupakan Game Santai yang mampu melatih Reflek dan Kecepatan Berfikir.</dd>
+  <dt>Unique Value</dt>
+  <dd>- </dd>
+  <dt>Target Audience</dt>
+  <dd>- </dd>
+  <dt>Story</dt>
+  <dd>- </dd>
+  <dt>Gameplay</dt>
+  <dd>- </dd>
+</dl>
+<h3>First Prototype</h3>
+
+<p>Shows Gameplay</p>
+[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+  
