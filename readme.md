@@ -80,5 +80,7 @@ Ketika anda pulang kerumah anda bisa saja menularkan ke orang rumah atau keluarg
 <h3>First Prototype</h3>
 
 <p>Shows Gameplay</p>
-[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
-  
+
+
+https://user-images.githubusercontent.com/49836307/171779693-bcf4554b-3b9a-4622-a9c9-955480f5ea6c.mp4
+
